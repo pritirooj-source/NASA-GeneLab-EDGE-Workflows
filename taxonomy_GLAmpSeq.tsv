@@ -1,0 +1,732 @@
+ASV_ID	domain	phylum	class	order	family	genus	species
+ASV_1	Bacteria	Cyanobacteriota	Cyanobacteriia_2	Chloroplast_2	Incertae Sedis_227	Incertae Sedis_497	NA
+ASV_2	NA	NA	NA	NA	NA	NA	NA
+ASV_3	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	Massilia_2	NA
+ASV_4	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Pseudomonas_2	NA
+ASV_5	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Moraxellaceae_2	Acinetobacter_2	NA
+ASV_6	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	NA	NA	NA
+ASV_7	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Ralstonia_2	NA
+ASV_8	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Azospirillales_2	Azospirillaceae_2	Azospirillum_2	NA
+ASV_9	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	NA	NA	NA
+ASV_10	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_11	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Lysobacteraceae	Stenotrophomonas_2	NA
+ASV_12	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	NA	NA	NA
+ASV_13	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Lysobacteraceae	Stenotrophomonas_2	NA
+ASV_14	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	Dyella_2	NA
+ASV_15	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_16	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_17	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_18	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	NA	NA	NA
+ASV_19	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	NA	NA	NA
+ASV_20	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_21	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_22	Bacteria	Pseudomonadota	Gammaproteobacteria_2	NA	NA	NA	NA
+ASV_23	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_24	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_25	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Pseudomonas_2	NA
+ASV_26	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_27	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	NA	NA	NA
+ASV_28	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Pandoraea_2	NA
+ASV_29	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_30	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caedibacterales_2	Caedibacteraceae_2	Candidatus Nucleicultrix_2	NA
+ASV_31	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_32	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_33	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_34	Bacteria	Bacillota	Bacilli	Bacillales	NA	NA	NA
+ASV_35	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_36	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Cupriavidus_2	NA
+ASV_37	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Pseudomonas_2	NA
+ASV_38	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Caulobacter_2	NA
+ASV_39	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	Shinella_2	NA
+ASV_40	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_41	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	NA	NA
+ASV_42	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_43	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_44	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Hydrotalea	NA
+ASV_45	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_46	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_47	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_48	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Pseudomonas_2	NA
+ASV_49	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	NA	NA
+ASV_50	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Micrococcaceae_2	NA	NA
+ASV_51	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	Incertae Sedis_784	NA
+ASV_52	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	Aminobacter_2	NA
+ASV_53	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Methylobacterium	NA
+ASV_54	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Ralstonia_2	NA
+ASV_55	Bacteria	Pseudomonadota	Gammaproteobacteria_2	NA	NA	NA	NA
+ASV_56	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Bosea_2	NA
+ASV_57	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_58	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingopyxis_2	NA
+ASV_59	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_60	NA	NA	NA	NA	NA	NA	NA
+ASV_61	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Spirosomataceae	Dyadobacter_2	NA
+ASV_62	Eukaryota	NA	Chlorophyceae	Chlamydomonadales	NA	Chlamydomonas	NA
+ASV_63	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_64	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Caulobacter_2	NA
+ASV_65	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	Rhodanobacter_2	NA
+ASV_66	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Asticcacaulis_2	NA
+ASV_67	NA	NA	NA	NA	NA	NA	NA
+ASV_68	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Phenylobacterium_2	NA
+ASV_69	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
+ASV_70	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Legionellales_2	Legionellaceae_2	Legionella_2	NA
+ASV_71	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Cupriavidus_2	NA
+ASV_72	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_73	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_74	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_75	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_76	Bacteria	Bacillota	Bacilli	Bacillales	NA	NA	NA
+ASV_77	Bacteria	Cyanobacteriota	Cyanobacteriia_2	Chloroplast_2	Incertae Sedis_227	Incertae Sedis_497	NA
+ASV_78	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Intrasporangiaceae_2	Terrabacter_2	NA
+ASV_79	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	NA	NA	NA
+ASV_80	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_81	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_82	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_83	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Moraxellaceae_2	Acinetobacter_2	NA
+ASV_84	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_85	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Afipia_2	NA
+ASV_86	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_87	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Legionellales_2	Legionellaceae_2	Legionella_2	NA
+ASV_88	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Cupriavidus_2	NA
+ASV_89	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	NA	NA
+ASV_90	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_91	NA	NA	NA	NA	NA	NA	NA
+ASV_92	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	NA	NA
+ASV_93	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Neisseriaceae_2	Incertae Sedis_858	NA
+ASV_94	NA	NA	NA	NA	NA	NA	NA
+ASV_95	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_96	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	NA	NA
+ASV_97	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	Castellaniella_2	NA
+ASV_98	NA	NA	NA	NA	NA	NA	NA
+ASV_99	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_100	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_101	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Acetobacterales_2	Acetobacteraceae_2	Acidisoma_2	NA
+ASV_102	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_103	Bacteria	Cyanobacteriota	Sericytochromatia_2	Incertae Sedis_78	Incertae Sedis_234	Incertae Sedis_525	NA
+ASV_104	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_105	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	NA	NA
+ASV_106	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_107	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Hydrotalea	NA
+ASV_108	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_109	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_110	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_111	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Moraxellaceae_2	Acinetobacter_2	NA
+ASV_112	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_113	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_114	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_115	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_116	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_117	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_118	NA	NA	NA	NA	NA	NA	NA
+ASV_119	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	Mesorhizobium_2	NA
+ASV_120	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_121	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_122	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	Mesorhizobium_2	NA
+ASV_123	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	NA	NA
+ASV_124	Bacteria	Cyanobacteriota	Cyanobacteriia_2	Chloroplast_2	Incertae Sedis_227	Incertae Sedis_497	NA
+ASV_125	NA	NA	NA	NA	NA	NA	NA
+ASV_126	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	Dyella_2	NA
+ASV_127	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Rickettsiaceae_2	Incertae Sedis_824	NA
+ASV_128	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_129	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_130	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Paracaedibacterales_2	Paracaedibacteraceae_2	Incertae Sedis_797	NA
+ASV_131	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Neisseriaceae_2	Incertae Sedis_858	NA
+ASV_132	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	Leifsonia_2	NA
+ASV_133	Bacteria	Cyanobacteriota	Cyanobacteriia_2	Chloroplast_2	Incertae Sedis_227	Incertae Sedis_497	NA
+ASV_134	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	NA	NA
+ASV_135	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_136	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_137	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_138	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	NA
+ASV_139	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_140	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_141	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Bradyrhizobium_2	NA
+ASV_142	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_143	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	NA	NA
+ASV_144	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_145	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Paracaedibacterales_2	Paracaedibacteraceae_2	Incertae Sedis_797	NA
+ASV_146	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	NA	NA	NA
+ASV_147	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_148	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	NA	NA
+ASV_149	Bacteria	Patescibacteria	Gracilibacteria	JGI 0000069-P22	Incertae Sedis_314	Incertae Sedis_650	NA
+ASV_150	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Kaistiaceae_2	Kaistia_2	NA
+ASV_151	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Heliimonas	NA
+ASV_152	NA	NA	NA	NA	NA	NA	NA
+ASV_153	NA	NA	NA	NA	NA	NA	NA
+ASV_154	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_155	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	NA	NA
+ASV_156	Bacteria	Cyanobacteriota	Sericytochromatia_2	Incertae Sedis_78	Incertae Sedis_234	Incertae Sedis_525	NA
+ASV_157	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_158	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_159	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_160	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_161	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Afipia_2	NA
+ASV_162	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_163	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Pseudomonas_2	NA
+ASV_164	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_165	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_166	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Domibacillus	NA
+ASV_167	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	Luteibacter_2	NA
+ASV_168	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_169	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Micrococcaceae_2	NA	NA
+ASV_170	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Spirosomataceae	Fibrisoma_2	NA
+ASV_171	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	NA	NA
+ASV_172	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Cupriavidus_2	NA
+ASV_173	NA	NA	NA	NA	NA	NA	NA
+ASV_174	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_175	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_176	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_177	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_178	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Spirosomataceae	Dyadobacter_2	NA
+ASV_179	Bacteria	Cyanobacteriota	Sericytochromatia_2	Incertae Sedis_78	Incertae Sedis_234	Incertae Sedis_525	NA
+ASV_180	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Parachlamydiaceae	Candidatus Rubidus	NA
+ASV_181	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_182	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_183	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_184	Bacteria	Cyanobacteriota	Cyanobacteriia_2	Chloroplast_2	Incertae Sedis_227	Incertae Sedis_497	NA
+ASV_185	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Hephaestia_2	NA
+ASV_186	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Bosea_2	NA
+ASV_187	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Methylophilaceae_2	NA	NA
+ASV_188	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_189	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_190	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_191	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_192	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Psychrobacillus	NA
+ASV_193	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_194	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Puia	NA
+ASV_195	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_196	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_197	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_198	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Lysobacteraceae	Thermomonas_2	NA
+ASV_199	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	NA	NA
+ASV_200	Bacteria	Pseudomonadota	Gammaproteobacteria_2	NA	NA	NA	NA
+ASV_201	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_202	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_203	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_204	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Corynebacteriaceae_2	Lawsonella_2	NA
+ASV_205	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_206	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	NA	NA
+ASV_207	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	NA	NA
+ASV_208	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Ralstonia_2	NA
+ASV_209	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_210	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_211	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	NA	NA
+ASV_212	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_213	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_214	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_215	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	Massilia_2	NA
+ASV_216	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_217	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Pseudomonas_2	NA
+ASV_218	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Methylobacterium	NA
+ASV_219	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	NA	NA	NA
+ASV_220	Bacteria	Pseudomonadota	Alphaproteobacteria_2	NA	NA	NA	NA
+ASV_221	Bacteria	Cyanobacteriota	Sericytochromatia_2	Incertae Sedis_78	Incertae Sedis_234	Incertae Sedis_525	NA
+ASV_222	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_223	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_224	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Brevundimonas_2	NA
+ASV_225	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	NA	NA
+ASV_226	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	NA	NA
+ASV_227	NA	NA	NA	NA	NA	NA	NA
+ASV_228	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	Incertae Sedis_846	NA
+ASV_229	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	NA	NA
+ASV_230	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingopyxis_2	NA
+ASV_231	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_232	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	NA	NA
+ASV_233	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_234	NA	NA	NA	NA	NA	NA	NA
+ASV_235	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Spirosomataceae	Spirosoma_2	NA
+ASV_236	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_237	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Micrococcaceae_2	Micrococcus_2	NA
+ASV_238	Bacteria	Bacillota	Bacilli	NA	NA	NA	NA
+ASV_239	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Methylobacterium	NA
+ASV_240	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	Rhodanobacter_2	NA
+ASV_241	NA	NA	NA	NA	NA	NA	NA
+ASV_242	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Rhodopseudomonas_2	NA
+ASV_243	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_244	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	NA
+ASV_245	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Incertae Sedis_760	NA
+ASV_246	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Lysobacteraceae	Stenotrophomonas_2	NA
+ASV_247	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_248	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Heyndrickxia	NA
+ASV_249	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_250	NA	NA	NA	NA	NA	NA	NA
+ASV_251	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_252	Eukaryota	Phragmoplastophyta	Embryophyta	Brassicales	NA	Brassica	NA
+ASV_253	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter	NA
+ASV_254	NA	NA	NA	NA	NA	NA	NA
+ASV_255	NA	NA	NA	NA	NA	NA	NA
+ASV_256	NA	NA	NA	NA	NA	NA	NA
+ASV_257	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_258	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_259	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_260	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_261	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_262	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_263	Bacteria	Actinomycetota	Actinobacteria_2	Kitasatosporales	Streptomycetaceae_2	NA	NA
+ASV_264	NA	NA	NA	NA	NA	NA	NA
+ASV_265	NA	NA	NA	NA	NA	NA	NA
+ASV_266	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_267	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_268	NA	NA	NA	NA	NA	NA	NA
+ASV_269	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Asticcacaulis_2	NA
+ASV_270	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_271	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_272	NA	NA	NA	NA	NA	NA	NA
+ASV_273	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Paracaedibacterales_2	Paracaedibacteraceae_2	Candidatus Paracaedibacter_2	NA
+ASV_274	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_275	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_276	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_277	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	Dyella_2	NA
+ASV_278	NA	NA	NA	NA	NA	NA	NA
+ASV_279	NA	NA	NA	NA	NA	NA	NA
+ASV_280	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_281	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_282	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_283	NA	NA	NA	NA	NA	NA	NA
+ASV_284	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_285	NA	NA	NA	NA	NA	NA	NA
+ASV_286	NA	NA	NA	NA	NA	NA	NA
+ASV_287	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	Microbacterium_2	NA
+ASV_288	NA	NA	NA	NA	NA	NA	NA
+ASV_289	NA	NA	NA	NA	NA	NA	NA
+ASV_290	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	NA	NA
+ASV_291	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_292	NA	NA	NA	NA	NA	NA	NA
+ASV_293	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Brevundimonas_2	NA
+ASV_294	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Litchfieldia	NA
+ASV_295	NA	NA	NA	NA	NA	NA	NA
+ASV_296	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Parvibaculales_2	Parvibaculaceae_2	Parvibaculum_2	NA
+ASV_297	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	Mesorhizobium_2	NA
+ASV_298	NA	NA	NA	NA	NA	NA	NA
+ASV_299	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Burkholderia-Caballeronia-Paraburkholderia_2	NA
+ASV_300	Bacteria	Bacillota	Bacilli	Bacillales	NA	NA	NA
+ASV_301	NA	NA	NA	NA	NA	NA	NA
+ASV_302	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Simkaniaceae	Incertae Sedis_408	NA
+ASV_303	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_304	NA	NA	NA	NA	NA	NA	NA
+ASV_305	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	NA	NA
+ASV_306	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_307	NA	NA	NA	NA	NA	NA	NA
+ASV_308	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_309	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	NA
+ASV_310	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_311	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	Roseateles_2	NA
+ASV_312	NA	NA	NA	NA	NA	NA	NA
+ASV_313	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_314	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Methylophilaceae_2	NA	NA
+ASV_315	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_316	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_317	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_318	NA	NA	NA	NA	NA	NA	NA
+ASV_319	NA	NA	NA	NA	NA	NA	NA
+ASV_320	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_321	NA	NA	NA	NA	NA	NA	NA
+ASV_322	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Lysobacteraceae	Luteimonas_2	NA
+ASV_323	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Micropepsales_2	Micropepsaceae_2	Incertae Sedis_795	NA
+ASV_324	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Hyphomicrobiales Incertae Sedis	Incertae Sedis_778	NA
+ASV_325	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Moraxellaceae_2	Acinetobacter_2	NA
+ASV_326	NA	NA	NA	NA	NA	NA	NA
+ASV_327	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_328	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_329	NA	NA	NA	NA	NA	NA	NA
+ASV_330	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_331	NA	NA	NA	NA	NA	NA	NA
+ASV_332	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_333	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Salinisphaerales_2	Nevskiaceae	Nevskia_2	NA
+ASV_334	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_335	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Parafilimonas	NA
+ASV_336	NA	NA	NA	NA	NA	NA	NA
+ASV_337	NA	NA	NA	NA	NA	NA	NA
+ASV_338	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_339	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	Microbacterium_2	NA
+ASV_340	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Rhodopseudomonas_2	NA
+ASV_341	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_342	Bacteria	Cyanobacteriota	Cyanobacteriia_2	Cyanobacteriales_2	NA	NA	NA
+ASV_343	NA	NA	NA	NA	NA	NA	NA
+ASV_344	NA	NA	NA	NA	NA	NA	NA
+ASV_345	NA	NA	NA	NA	NA	NA	NA
+ASV_346	NA	NA	NA	NA	NA	NA	NA
+ASV_347	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_348	NA	NA	NA	NA	NA	NA	NA
+ASV_349	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Nocardiaceae_2	Rhodococcus_2	NA
+ASV_350	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	Amnibacterium_2	NA
+ASV_351	NA	NA	NA	NA	NA	NA	NA
+ASV_352	NA	NA	NA	NA	NA	NA	NA
+ASV_353	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Pseudolabrys_2	NA
+ASV_354	NA	NA	NA	NA	NA	NA	NA
+ASV_355	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_356	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_357	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_358	Bacteria	Acidobacteriota	Acidobacteriae	Terriglobales	Acidobacteriaceae (Subgroup 1)_2	Terriglobus_2	NA
+ASV_359	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	NA	NA
+ASV_360	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_361	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_362	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_363	NA	NA	NA	NA	NA	NA	NA
+ASV_364	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	AB1_2	Incertae Sedis_818	NA
+ASV_365	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Salinisphaerales_2	Nevskiaceae	Stenotrophobium	NA
+ASV_366	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	NA	NA
+ASV_367	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_368	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_369	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Rhizorhabdus	NA
+ASV_370	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Acetobacterales_2	Acetobacteraceae_2	Incertae Sedis_753	NA
+ASV_371	NA	NA	NA	NA	NA	NA	NA
+ASV_372	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_373	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_374	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_375	NA	NA	NA	NA	NA	NA	NA
+ASV_376	NA	NA	NA	NA	NA	NA	NA
+ASV_377	NA	NA	NA	NA	NA	NA	NA
+ASV_378	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_379	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_380	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Hyphomicrobiaceae_2	Hyphomicrobium_2	NA
+ASV_381	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_382	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Acetobacterales_2	Acetobacteraceae_2	Incertae Sedis_753	NA
+ASV_383	NA	NA	NA	NA	NA	NA	NA
+ASV_384	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Corynebacteriaceae_2	Corynebacterium_2	NA
+ASV_385	NA	NA	NA	NA	NA	NA	NA
+ASV_386	Eukaryota	Phragmoplastophyta	Embryophyta	Brassicales	NA	Brassica	NA
+ASV_387	NA	NA	NA	NA	NA	NA	NA
+ASV_388	NA	NA	NA	NA	NA	NA	NA
+ASV_389	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Cupriavidus_2	NA
+ASV_390	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_391	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_392	Bacteria	Cyanobacteriota	Cyanobacteriia_2	Chloroplast_2	Incertae Sedis_227	Incertae Sedis_497	NA
+ASV_393	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	NA	NA
+ASV_394	NA	NA	NA	NA	NA	NA	NA
+ASV_395	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	Neorhizobium_2	NA
+ASV_396	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Asticcacaulis_2	NA
+ASV_397	NA	NA	NA	NA	NA	NA	NA
+ASV_398	NA	NA	NA	NA	NA	NA	NA
+ASV_399	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Nocardiaceae_2	Gordonia_2	NA
+ASV_400	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_401	NA	NA	NA	NA	NA	NA	NA
+ASV_402	NA	NA	NA	NA	NA	NA	NA
+ASV_403	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	NA
+ASV_404	NA	NA	NA	NA	NA	NA	NA
+ASV_405	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_406	NA	NA	NA	NA	NA	NA	NA
+ASV_407	NA	NA	NA	NA	NA	NA	NA
+ASV_408	NA	NA	NA	NA	NA	NA	NA
+ASV_409	NA	NA	NA	NA	NA	NA	NA
+ASV_410	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_411	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Acetobacterales_2	Acetobacteraceae_2	Roseomonas_2	NA
+ASV_412	NA	NA	NA	NA	NA	NA	NA
+ASV_413	NA	NA	NA	NA	NA	NA	NA
+ASV_414	NA	NA	NA	NA	NA	NA	NA
+ASV_415	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	NA	NA	NA
+ASV_416	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Procabacteriaceae_2	Procabacter_2	NA
+ASV_417	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter	NA
+ASV_418	NA	NA	NA	NA	NA	NA	NA
+ASV_419	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Kaistiaceae_2	Kaistia_2	NA
+ASV_420	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Lysobacteraceae	Pseudoxanthomonas_2	NA
+ASV_421	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	Leucobacter_2	NA
+ASV_422	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Pseudolabrys_2	NA
+ASV_423	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Micrococcaceae_2	NA	NA
+ASV_424	NA	NA	NA	NA	NA	NA	NA
+ASV_425	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_426	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Chitinophaga	NA
+ASV_427	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Moraxellaceae_2	Enhydrobacter_2	NA
+ASV_428	NA	NA	NA	NA	NA	NA	NA
+ASV_429	NA	NA	NA	NA	NA	NA	NA
+ASV_430	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Pseudolabrys_2	NA
+ASV_431	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Lichenibacterium	NA
+ASV_432	NA	NA	NA	NA	NA	NA	NA
+ASV_433	NA	NA	NA	NA	NA	NA	NA
+ASV_434	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Corynebacteriaceae_2	Corynebacterium_2	NA
+ASV_435	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	NA
+ASV_436	NA	NA	NA	NA	NA	NA	NA
+ASV_437	NA	NA	NA	NA	NA	NA	NA
+ASV_438	NA	NA	NA	NA	NA	NA	NA
+ASV_439	NA	NA	NA	NA	NA	NA	NA
+ASV_440	NA	NA	NA	NA	NA	NA	NA
+ASV_441	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingopyxis_2	NA
+ASV_442	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Neisseriaceae_2	Neisseria_2	NA
+ASV_443	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	Pasteurellaceae_2	NA	NA
+ASV_444	NA	NA	NA	NA	NA	NA	NA
+ASV_445	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	NA	NA
+ASV_446	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_447	NA	NA	NA	NA	NA	NA	NA
+ASV_448	NA	NA	NA	NA	NA	NA	NA
+ASV_449	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Spirosomataceae	Dyadobacter_2	NA
+ASV_450	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Terribacillus	NA
+ASV_451	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	Incertae Sedis_154	Incertae Sedis_375	NA
+ASV_452	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_453	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_454	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Propionibacteriaceae_2	Cutibacterium_2	NA
+ASV_455	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Jeotgalicoccus	NA
+ASV_456	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Moraxellaceae_2	NA	NA
+ASV_457	NA	NA	NA	NA	NA	NA	NA
+ASV_458	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_459	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_460	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_461	NA	NA	NA	NA	NA	NA	NA
+ASV_462	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_463	Bacteria	Acidobacteriota	Acidobacteriae	Terriglobales	Acidobacteriaceae (Subgroup 1)_2	NA	NA
+ASV_464	NA	NA	NA	NA	NA	NA	NA
+ASV_465	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Salinisphaerales_2	Nevskiaceae	NA	NA
+ASV_466	Bacteria	Acidobacteriota	Acidobacteriae	Terriglobales	Acidobacteriaceae (Subgroup 1)_2	NA	NA
+ASV_467	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Paracaedibacterales_2	Paracaedibacteraceae_2	Candidatus Odyssella_2	NA
+ASV_468	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Methylobacterium	NA
+ASV_469	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	NA	NA
+ASV_470	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_471	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	Morganellaceae_2	NA	NA
+ASV_472	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	NA	NA
+ASV_473	NA	NA	NA	NA	NA	NA	NA
+ASV_474	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Pseudobdellovibrionaceae	Incertae Sedis_374	NA
+ASV_475	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Rhodanobacteraceae_2	NA	NA
+ASV_476	NA	NA	NA	NA	NA	NA	NA
+ASV_477	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_478	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_479	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Legionellales_2	Legionellaceae_2	Legionella_2	NA
+ASV_480	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Hyphomicrobiaceae_2	Hyphomicrobium_2	NA
+ASV_481	NA	NA	NA	NA	NA	NA	NA
+ASV_482	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Chitinophaga	NA
+ASV_483	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_484	NA	NA	NA	NA	NA	NA	NA
+ASV_485	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_486	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Intrasporangiaceae_2	NA	NA
+ASV_487	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Micropepsales_2	Micropepsaceae_2	Incertae Sedis_795	NA
+ASV_488	NA	NA	NA	NA	NA	NA	NA
+ASV_489	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Brevundimonas_2	NA
+ASV_490	NA	NA	NA	NA	NA	NA	NA
+ASV_491	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Azospirillales_2	Inquilinaceae_2	Inquilinus_2	NA
+ASV_492	NA	NA	NA	NA	NA	NA	NA
+ASV_493	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_494	NA	NA	NA	NA	NA	NA	NA
+ASV_495	NA	NA	NA	NA	NA	NA	NA
+ASV_496	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Salinisphaerales_2	Nevskiaceae	Hydrocarboniphaga_2	NA
+ASV_497	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	NA	NA
+ASV_498	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Rhizorhabdus	NA
+ASV_499	Bacteria	Actinomycetota	Actinobacteria_2	NA	NA	NA	NA
+ASV_500	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Pseudobdellovibrionaceae	Incertae Sedis_374	NA
+ASV_501	NA	NA	NA	NA	NA	NA	NA
+ASV_502	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Salinisphaerales_2	Nevskiaceae	Hydrocarboniphaga_2	NA
+ASV_503	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Mycobacteriaceae_2	Mycobacterium_2	NA
+ASV_504	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_505	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	NA
+ASV_506	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rhodobacterales_2	Paracoccaceae	Paracoccus_2	NA
+ASV_507	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Hymenobacteraceae	Pontibacter	NA
+ASV_508	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_509	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Halomonadaceae_2	Halomonas_2	NA
+ASV_510	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	NA	NA	NA
+ASV_511	NA	NA	NA	NA	NA	NA	NA
+ASV_512	NA	NA	NA	NA	NA	NA	NA
+ASV_513	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_514	Bacteria	Acidobacteriota	Acidobacteriae	Terriglobales	Acidobacteriaceae (Subgroup 1)_2	Granulicella_2	NA
+ASV_515	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Methylobacterium	NA
+ASV_516	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	Pseudolabrys_2	NA
+ASV_517	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	NA	NA	NA
+ASV_518	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_519	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_520	NA	NA	NA	NA	NA	NA	NA
+ASV_521	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Xanthobacteraceae_2	NA	NA
+ASV_522	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	Alteromonadaceae_2	Alishewanella_2	NA
+ASV_523	NA	NA	NA	NA	NA	NA	NA
+ASV_524	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Hyphomicrobiaceae_2	NA	NA
+ASV_525	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	NA
+ASV_526	NA	NA	NA	NA	NA	NA	NA
+ASV_527	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Lichenibacterium	NA
+ASV_528	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_529	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Salinisphaerales_2	Nevskiaceae	Nevskia_2	NA
+ASV_530	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Corynebacteriaceae_2	Corynebacterium_2	NA
+ASV_531	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Moraxellaceae_2	Cavicella_2	NA
+ASV_532	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Azotobacter_2	NA
+ASV_533	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	NA
+ASV_534	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_535	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_536	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Hydrogenophilaceae_2	Thiobacillus_2	NA
+ASV_537	NA	NA	NA	NA	NA	NA	NA
+ASV_538	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	NA	NA	NA
+ASV_539	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	Marinilactibacillus	NA
+ASV_540	Bacteria	Actinomycetota	Actinobacteria_2	NA	NA	NA	NA
+ASV_541	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_542	Bacteria	Bacillota	Bacilli	Alicyclobacillales	Alicyclobacillaceae	Effusibacillus	NA
+ASV_543	Bacteria	Acidobacteriota	Acidobacteriae	Terriglobales	Acidobacteriaceae (Subgroup 1)_2	NA	NA
+ASV_544	Eukaryota	NA	Chlorophyceae	Chlamydomonadales	NA	Chlorococcum	NA
+ASV_545	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Anaerococcus	NA
+ASV_546	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_547	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Phenylobacterium_2	NA
+ASV_548	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_549	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Weizmannia	NA
+ASV_550	NA	NA	NA	NA	NA	NA	NA
+ASV_551	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Rickettsiaceae_2	Incertae Sedis_824	NA
+ASV_552	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	NA
+ASV_553	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	NA	NA
+ASV_554	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Hyphomicrobiaceae_2	NA	NA
+ASV_555	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	NA	NA
+ASV_556	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_557	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	NA
+ASV_558	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	NA
+ASV_559	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	Tepidisphaeraceae	Incertae Sedis_735	NA
+ASV_560	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Microbacteriaceae_2	Incertae Sedis_149	NA
+ASV_561	NA	NA	NA	NA	NA	NA	NA
+ASV_562	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Devosiaceae_2	NA	NA
+ASV_563	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_564	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Neisseriaceae_2	NA	NA
+ASV_565	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_566	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Hyphomicrobiaceae_2	NA	NA
+ASV_567	NA	NA	NA	NA	NA	NA	NA
+ASV_568	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Incertae Sedis_567	NA
+ASV_569	NA	NA	NA	NA	NA	NA	NA
+ASV_570	Bacteria	Bacillota	Bacilli	Thermicanales	Thermicanaceae	Thermicanus	NA
+ASV_571	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Halomonadaceae_2	Halomonas_2	NA
+ASV_572	Eukaryota	NA	Chrysophyceae	Chromulinales	NA	Poterioochromonas	NA
+ASV_573	NA	NA	NA	NA	NA	NA	NA
+ASV_574	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	NA	NA
+ASV_575	Bacteria	Bacillota	Bacilli	Bacillales	NA	NA	NA
+ASV_576	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_577	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	NA
+ASV_578	NA	NA	NA	NA	NA	NA	NA
+ASV_579	Eukaryota	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	NA
+ASV_580	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_581	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Dietziaceae_2	Dietzia_2	NA
+ASV_582	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	Incertae Sedis_378	NA
+ASV_583	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_584	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Pedosphaerales_2	Pedosphaeraceae_2	NA	NA
+ASV_585	Bacteria	Bacillota	Bacilli	NA	NA	NA	NA
+ASV_586	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rhodobacterales_2	Paracoccaceae	NA	NA
+ASV_587	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Devosiaceae_2	Devosia_2	NA
+ASV_588	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Nocardiaceae_2	Gordonia_2	NA
+ASV_589	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	NA
+ASV_590	Bacteria	Pseudomonadota	Gammaproteobacteria_2	NA	NA	NA	NA
+ASV_591	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Pseudomonas_2	NA
+ASV_592	NA	NA	NA	NA	NA	NA	NA
+ASV_593	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Fictibacillus	NA
+ASV_594	NA	NA	NA	NA	NA	NA	NA
+ASV_595	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Micrococcaceae_2	NA	NA
+ASV_596	NA	NA	NA	NA	NA	NA	NA
+ASV_597	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Paracaedibacterales_2	Paracaedibacteraceae_2	Candidatus Odyssella_2	NA
+ASV_598	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	NA	NA
+ASV_599	NA	NA	NA	NA	NA	NA	NA
+ASV_600	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	NA	NA	NA
+ASV_601	NA	NA	NA	NA	NA	NA	NA
+ASV_602	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_603	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Neisseriaceae_2	Neisseria_2	NA
+ASV_604	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	NA	NA
+ASV_605	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	NA	NA	NA
+ASV_606	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	NA
+ASV_607	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Alkalicoccobacillus	NA
+ASV_608	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Pseudobdellovibrionaceae	Incertae Sedis_374	NA
+ASV_609	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Acetobacterales_2	Acetobacteraceae_2	NA	NA
+ASV_610	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	Oligoflexus	NA
+ASV_611	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_612	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	Nocardioides_2	NA
+ASV_613	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	Incertae Sedis_154	Incertae Sedis_375	NA
+ASV_614	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Hydrogenophilaceae_2	Tepidiphilus_2	NA
+ASV_615	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Gammaproteobacteria Incertae Sedis_2	Unknown Family_7	Acidibacter_2	NA
+ASV_616	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	NA	NA
+ASV_617	Bacteria	Actinomycetota	Thermoleophilia_2	Solirubrobacterales_2	Solirubrobacteraceae_2	Conexibacter_2	NA
+ASV_618	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_619	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_620	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Corynebacteriaceae_2	Corynebacterium_2	NA
+ASV_621	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Brevundimonas_2	NA
+ASV_622	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_623	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_624	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	NA
+ASV_625	NA	NA	NA	NA	NA	NA	NA
+ASV_626	NA	NA	NA	NA	NA	NA	NA
+ASV_627	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Alcaligenaceae_2	Eoetvoesia_2	NA
+ASV_628	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Neisseriaceae_2	Incertae Sedis_858	NA
+ASV_629	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Burkholderiaceae_2	Ralstonia_2	NA
+ASV_630	Bacteria	Planctomycetota	Phycisphaerae	Tepidisphaerales	WD2101 soil group	Incertae Sedis_736	NA
+ASV_631	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Mycobacteriaceae_2	Mycobacterium_2	NA
+ASV_632	Bacteria	Bacillota	Bacilli	Staphylococcales	Gemellaceae	Gemella	NA
+ASV_633	Eukaryota	NA	Chlorophyceae	Chlamydomonadales	NA	Chlamydomonas	NA
+ASV_634	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_635	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	NA	NA	NA
+ASV_636	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	NA	NA
+ASV_637	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caedibacterales_2	Caedibacteraceae_2	Caedibacter_2	NA
+ASV_638	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Pseudobdellovibrionaceae	NA	NA
+ASV_639	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Enterobacterales_2	Enterobacteriaceae_2	NA	NA
+ASV_640	NA	NA	NA	NA	NA	NA	NA
+ASV_641	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Hyphomicrobiaceae_2	NA	NA
+ASV_642	Bacteria	Actinomycetota	Actinobacteria_2	Kitasatosporales	Streptomycetaceae_2	Streptomyces_2	NA
+ASV_643	Bacteria	Pseudomonadota	Gammaproteobacteria_2	NA	NA	NA	NA
+ASV_644	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Neisseriaceae_2	Incertae Sedis_858	NA
+ASV_645	Eukaryota	Phragmoplastophyta	Embryophyta	Brassicales	NA	Brassica	NA
+ASV_646	Bacteria	Pseudomonadota	NA	NA	NA	NA	NA
+ASV_647	NA	NA	NA	NA	NA	NA	NA
+ASV_648	Bacteria	Actinomycetota	Actinobacteria_2	NA	NA	NA	NA
+ASV_649	NA	NA	NA	NA	NA	NA	NA
+ASV_650	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	NA	NA	NA
+ASV_651	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	Incertae Sedis_154	Incertae Sedis_375	NA
+ASV_652	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	Pseudomonas_2	NA
+ASV_653	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rhodobacterales_2	Paracoccaceae	Paracoccus_2	NA
+ASV_654	Bacteria	Chloroflexota	Ktedonobacteria_2	C0119_2	Incertae Sedis_211	Incertae Sedis_469	NA
+ASV_655	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Eremococcus	NA
+ASV_656	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Comamonadaceae_2	Caldimonas_2	NA
+ASV_657	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_658	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Pseudomonadales_2	Pseudomonadaceae_2	NA	NA
+ASV_659	NA	NA	NA	NA	NA	NA	NA
+ASV_660	NA	NA	NA	NA	NA	NA	NA
+ASV_661	NA	NA	NA	NA	NA	NA	NA
+ASV_662	NA	NA	NA	NA	NA	NA	NA
+ASV_663	NA	NA	NA	NA	NA	NA	NA
+ASV_664	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Microvirga_2	NA
+ASV_665	Bacteria	Bacillota	Bacilli	Exiguobacterales	Exiguobacteraceae	Exiguobacterium	NA
+ASV_666	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_667	NA	NA	NA	NA	NA	NA	NA
+ASV_668	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_669	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_670	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Fluviicola	NA
+ASV_671	NA	NA	NA	NA	NA	NA	NA
+ASV_672	Bacteria	Pseudomonadota	Alphaproteobacteria_2	NA	NA	NA	NA
+ASV_673	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Holosporales_2	Holosporaceae_2	Candidatus Bealeia_2	NA
+ASV_674	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Burkholderiales_2	Oxalobacteraceae_2	NA	NA
+ASV_675	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	NA	NA
+ASV_676	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Parvibaculales_2	Parvibaculaceae_2	Parvibaculum_2	NA
+ASV_677	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Parafilimonas	NA
+ASV_678	Bacteria	Pseudomonadota	Gammaproteobacteria_2	NA	NA	NA	NA
+ASV_679	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Lysobacteraceae	Stenotrophomonas_2	NA
+ASV_680	NA	NA	NA	NA	NA	NA	NA
+ASV_681	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Rhizobiaceae_2	Pseudaminobacter_2	NA
+ASV_682	NA	NA	NA	NA	NA	NA	NA
+ASV_683	Bacteria	Cyanobacteriota	Vampirivibrionia_2	Obscuribacterales_2	Obscuribacteraceae_2	Candidatus Obscuribacter_2	NA
+ASV_684	NA	NA	NA	NA	NA	NA	NA
+ASV_685	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Corynebacteriaceae_2	Corynebacterium_2	NA
+ASV_686	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_687	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Gammaproteobacteria Incertae Sedis_2	Unknown Family_7	Acidibacter_2	NA
+ASV_688	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Holosporales_2	Holosporaceae_2	Candidatus Bealeia_2	NA
+ASV_689	Bacteria	Cyanobacteriota	Cyanobacteriia_2	Cyanobacteriales_2	NA	NA	NA
+ASV_690	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_691	NA	NA	NA	NA	NA	NA	NA
+ASV_692	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Lysobacterales	Lysobacteraceae	Stenotrophomonas_2	NA
+ASV_693	NA	NA	NA	NA	NA	NA	NA
+ASV_694	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Devosiaceae_2	NA	NA
+ASV_695	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_696	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	NA
+ASV_697	Bacteria	Bacillota	Incertae Sedis_11	DTU014	Incertae Sedis_130	Incertae Sedis_257	NA
+ASV_698	Bacteria	Bacillota	Bacilli	Staphylococcales	Gemellaceae	Gemella	NA
+ASV_699	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Hyphomicrobiales	Beijerinckiaceae_2	Methylobacterium	NA
+ASV_700	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_701	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_702	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+ASV_703	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_704	Bacteria	NA	NA	NA	NA	NA	NA
+ASV_705	Bacteria	Actinomycetota	Actinobacteria_2	Micrococcales_2	Dermabacteraceae_2	Brachybacterium_2	NA
+ASV_706	Eukaryota	Phragmoplastophyta	Embryophyta	Brassicales	NA	Brassica	NA
+ASV_707	Bacteria	Pseudomonadota	Gammaproteobacteria_2	NA	NA	NA	NA
+ASV_708	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Caulobacterales_2	Caulobacteraceae_2	Incertae Sedis_760	NA
+ASV_709	Bacteria	Pseudomonadota	Gammaproteobacteria_2	Gammaproteobacteria Incertae Sedis_2	Unknown Family_7	Acidibacter_2	NA
+ASV_710	Eukaryota	Phragmoplastophyta	Embryophyta	Brassicales	NA	NA	NA
+ASV_711	Bacteria	Bacillota	Bacilli	NA	NA	NA	NA
+ASV_712	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Paracaedibacterales_2	Paracaedibacteraceae_2	Incertae Sedis_797	NA
+ASV_713	NA	NA	NA	NA	NA	NA	NA
+ASV_714	Bacteria	Actinomycetota	Actinobacteria_2	NA	NA	NA	NA
+ASV_715	Bacteria	Pseudomonadota	Gammaproteobacteria_2	NA	NA	NA	NA
+ASV_716	NA	NA	NA	NA	NA	NA	NA
+ASV_717	NA	NA	NA	NA	NA	NA	NA
+ASV_718	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Sphingomonadales_2	Sphingomonadaceae_2	Sphingomonas_2	NA
+ASV_719	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	Dolosigranulum	NA
+ASV_720	NA	NA	NA	NA	NA	NA	NA
+ASV_721	NA	NA	NA	NA	NA	NA	NA
+ASV_722	Bacteria	Actinomycetota	Actinobacteria_2	Mycobacteriales	Corynebacteriaceae_2	Lawsonella_2	NA
+ASV_723	NA	NA	NA	NA	NA	NA	NA
+ASV_724	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Pedosphaerales_2	Pedosphaeraceae_2	Incertae Sedis_1060	NA
+ASV_725	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_726	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_727	Bacteria	Pseudomonadota	Alphaproteobacteria_2	Rickettsiales_2	Mitochondria_2	Incertae Sedis_823	NA
+ASV_728	NA	NA	NA	NA	NA	NA	NA
+ASV_729	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	NA	NA
+ASV_730	Bacteria	Actinomycetota	Actinobacteria_2	Propionibacteriales_2	Nocardioidaceae_2	NA	NA
+ASV_731	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Heliimonas	NA
