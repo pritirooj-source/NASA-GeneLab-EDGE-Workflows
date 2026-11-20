@@ -34,11 +34,10 @@ The execution parameters and pipeline configuration for the test project (`OSD-3
 ---
 
 ## 🚀 Key Beta Testing Feedback & Insights
-* **Platform Efficiency:** Seamless integration with OSDR accession retrieval (`OSD-386`) for rapid pipeline initiation.
-* **Proposed Enhancements:** 
-  * Integration of upfront dataset quality metrics (read depth, Phred scores).
-  * Addition of automated interactive visualizations (dynamic stacked bar plots and heatmaps).
-  * Implementation of proactive job-completion notifications and bulk download features (`.zip` archive exports).
+- **Platform Efficiency & OSDR Integration:** Smooth accession-based dataset retrieval (`OSD-386`) and reliable workflow execution; suggested in-dashboard OSDR search/import and one-click `.zip` bulk output downloads.
+- **Data Quality & Output Clarity:** Recommended upfront dataset quality summaries (read depth, Phred scores, adapter content) before running jobs, plus a root output `README` explaining subfolders and ASV/taxonomy tables.
+- **Visualization & UI Enhancements:** Proposed interactive plots (hover details, dynamic stacked bar plots by taxonomic rank, and an interactive heatmap for top ASVs), a visualization quick-save preset, and pre-submission validation (e.g., sample size checks).
+- **Workflow & Documentation Usability:** Suggested timestamped tutorial chapters, a quick-start parameter summary table, intermediate file recovery for large runs, and future support for shotgun metagenomics and metatranscriptomics workflows.
 
 ---
 
